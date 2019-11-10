@@ -18,8 +18,8 @@ function main(){
   let r6=sqlcon.getFailedRecords();
 
 
-  console.log(`${r1},${r2},${r3},${r4},${r5}`);
-  return 0;
+  //console.log(`${r1},${r2},${r3},${r4},${r5}`);
+  return `${r1},${r2},${r3},${r4},${r5}`;
 }
 
 main();
