@@ -1,0 +1,16 @@
+{
+  "name": "nodeonestop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "mysql-promise": "^5.0.0",
+    "squel": "^5.13.0"
+  }
+}
